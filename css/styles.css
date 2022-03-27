@@ -1,0 +1,44 @@
+p{
+  width: 60%;
+  margin-left: 85px;
+}
+.plans{
+  text-decoration: none;
+  color: #8479E1;
+}
+#order{
+
+
+  position: relative;
+  left: 35%;
+  bottom: 350px;
+
+
+}
+.section-body{
+  background-color: #fff;
+  text-align: center;
+
+}
+.change{
+  background-color: #DFDFDE;
+margin-left: 30px;
+}
+.a-tag{
+  padding-top: 20px;
+}
+
+.proceed:hover{
+  color: #9ADCFF;
+  line-height: 1.5;
+}
+.group{
+  padding-top: 20px;
+}
+.annual{
+  padding-right: 30px;
+}
+.attribution{
+  text-align: center;
+  
+}
